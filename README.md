@@ -33,11 +33,11 @@ This folder focus on CNN, including:
 <h3>Sequence Models</h3>
 The folder includes:
 <ul>
-<li>Recurrent Neural Networks and LSTM algorithm LSTM</li>
-<li>Name Generator名字生成器</li>
-<li>Music Generator with LSTM音乐生成器</li>
-<li>Word Vectors词向量</li>
-<li>Emojify表情判断</li>
-<li>Neural machine translation with attention使用注意力机制实现机器翻译</li>
-<li>Trigger Word Detection 触发词检测</li>
+<li>Recurrent Neural Networks and LSTM algorithm </li>
+<li>Name Generator</li>
+<li>Music Generator with LSTM</li>
+<li>Word Vectors</li>
+<li>Emojify</li>
+<li>Neural machine translation with attention</li>
+<li>Trigger Word Detection</li>
 </ul>
